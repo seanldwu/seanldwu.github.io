@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Peter's Corner"
+author: "Peter JC. Wu"
+description: "Welcome to Peter's Corner, a personal blog about STEM education. I am Peter JC. Wu, a passionate engineer and lifelong learner based in Tainan."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
